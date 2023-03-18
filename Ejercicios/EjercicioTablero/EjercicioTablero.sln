@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioTablero.Consola", "EjercicioTablero.Consola\EjercicioTablero.Consola.csproj", "{91C64F02-AD3A-451F-98D0-31A21752B1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioTablero.Negocio", "EjercicioTablero.Negocio\EjercicioTablero.Negocio.csproj", "{8CD823DF-E9B6-4EC8-85CE-04C0FBA5FA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C64F02-AD3A-451F-98D0-31A21752B1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C64F02-AD3A-451F-98D0-31A21752B1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C64F02-AD3A-451F-98D0-31A21752B1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C64F02-AD3A-451F-98D0-31A21752B1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD823DF-E9B6-4EC8-85CE-04C0FBA5FA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD823DF-E9B6-4EC8-85CE-04C0FBA5FA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD823DF-E9B6-4EC8-85CE-04C0FBA5FA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD823DF-E9B6-4EC8-85CE-04C0FBA5FA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3689CB60-69FF-4954-A70C-48F160AC35CC}
+	EndGlobalSection
+EndGlobal
