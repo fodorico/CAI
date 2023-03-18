@@ -1,0 +1,6 @@
+Ejercicio III:
+
+Crear una aplicación que indique, cuando el usuario ingresa una palabra, si ésta es un
+palíndromo.
+
+Nota: Palíndromo son palabras que al derecho y al revés se leen igual, como "ananá".

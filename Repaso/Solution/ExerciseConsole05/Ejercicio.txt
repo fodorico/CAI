@@ -1,0 +1,6 @@
+Ejercicio V:
+
+Crear una aplicación que, cuando el usuario ingresa un número de 5 cifras, lo invierta y
+muestre por pantalla “El número invertido es: *nnnnn*”. 
+
+Por ejemplo, si el usuario ingresa “12345”, mostrará por pantalla “54321”. 

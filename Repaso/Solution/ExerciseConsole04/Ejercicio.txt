@@ -1,0 +1,7 @@
+Ejercicio IV:
+
+Crear una aplicación que indique, cuando el usuario ingresa dos palabras, si éstas son
+un anagrama.
+
+Nota: Anagrama son palabras que reordenando sus letras forman una nueva, como
+"roma" y "amor". 

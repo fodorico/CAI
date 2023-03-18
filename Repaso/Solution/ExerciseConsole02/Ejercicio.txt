@@ -1,0 +1,9 @@
+Ejercicio II:
+
+Crear una aplicación que cuente desde el número 1 hasta los últimos tres dígitos del
+propio número de registro (en caso de ser comenzar con 0, sumarle 100) e identificar
+los múltiplos de 3 y, también, aquellos que sean números primos. Para ambos casos
+(múltiplo de 3 y primos), deben mostrar el número en cuestión y " Es divisible por 3",
+"Es primo" y, en caso de ser ambos “Es primo y divisible por 3”.
+
+Por ejemplo, con el primer número mostrará “1 – Es primo”. 
