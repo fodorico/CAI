@@ -1,0 +1,6 @@
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio 04.exe.config
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio 04.exe
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.exe
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\Repaso\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.pdb

@@ -1,0 +1,6 @@
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\bin\Debug\Ejercicio 08.exe.config
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\bin\Debug\Ejercicio 08.exe
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\bin\Debug\Ejercicio 08.pdb
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\obj\Debug\Ejercicio 08.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\obj\Debug\Ejercicio 08.exe
+C:\Users\Juan Cruz\source\repos\Ejercicio 08\Ejercicio 08\obj\Debug\Ejercicio 08.pdb
