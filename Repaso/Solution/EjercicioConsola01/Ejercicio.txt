@@ -1,0 +1,8 @@
+Ejercicio I:
+
+Crear una aplicación que cuente desde el número 1 hasta los últimos tres dígitos del
+propio número de registro (en caso de ser comenzar con 0, sumarle 100), todos los
+números deben mostrarse por pantalla y, con los múltiplos de 3 se debera agregar
+“Foo”, con los múltiplos de 5, “Bar”, y, por último, con los múltiplos de ambos, “FooBar”.
+
+Por ejemplo, con el número mostrará “15 – FooBar”. 

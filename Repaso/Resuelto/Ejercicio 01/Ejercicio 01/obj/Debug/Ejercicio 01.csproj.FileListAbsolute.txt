@@ -1,0 +1,13 @@
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.exe.config
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.exe
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.pdb
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.csprojAssemblyReference.cache
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.exe
+C:/Users/Juan Cruz/Documents/Visual Studio 2019/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.exe.config
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.exe
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/bin/Debug/Ejercicio 01.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.csproj.AssemblyReference.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.csproj.CoreCompileInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.exe
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Ejercicio 01/Ejercicio 01/obj/Debug/Ejercicio 01.pdb
