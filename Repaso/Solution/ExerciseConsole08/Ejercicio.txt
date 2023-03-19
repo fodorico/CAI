@@ -1,0 +1,5 @@
+Ejercicio VIII:
+
+Crear una aplicación que, cuando el usuario ingrese una fecha, calcule la diferencia entre
+ésta y el día de hoy, mostrando por pantalla "La diferencia de fechas es de *nnnnn*
+días." 

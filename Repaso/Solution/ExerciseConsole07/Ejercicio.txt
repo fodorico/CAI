@@ -1,0 +1,4 @@
+Ejercicio VII:
+
+Crear una aplicación que, cuando el usuario ingrese cinco números, indique cuál es
+mayor, cuál es valor intermedio y cuál el menor.

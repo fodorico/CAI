@@ -1,0 +1,7 @@
+Ejercicio X:
+
+Crear una aplicación que lea un carácter tecleado por el usuario e indique si se trata de
+una vocal, una cifra numérica o una consonante.
+
+Nota: Incluir todas las validaciones que considere necesarias (los caracteres especiales
+no deben tenerse en cuenta). 

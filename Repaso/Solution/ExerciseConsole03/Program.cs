@@ -9,7 +9,7 @@ public static class Program
         while (Condition)
         {
             var word = ValidateInfo();
-            var arrayWord = word!.ToCharArray();
+            var arrayWord = word.ToCharArray();
             Array.Reverse(arrayWord);
             var reverseWord = new string(arrayWord);
             Console.WriteLine(reverseWord.Equals(word) ? "The word is Palindrome" : "The word isn't Palindrome");
@@ -22,7 +22,7 @@ public static class Program
         }
     }
 
-    private static string? ValidateInfo()
+    private static string ValidateInfo()
     {
         while (true)
         {

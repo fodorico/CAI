@@ -1,4 +1,4 @@
-﻿namespace ExerciseConsole05;
+﻿namespace ExerciseConsole06;
 
 public static class Program
 {
@@ -9,10 +9,7 @@ public static class Program
         while (Condition)
         {
             var number = ValidateInfo();
-            var arrayNumber = number.ToString().ToCharArray();
-            Array.Reverse(arrayNumber);
-            var reverseNumber = new string(arrayNumber);
-            Console.WriteLine($"Result: {reverseNumber}");
+            Console.WriteLine($"Result: {(number[0] + number[1]) * (number[0] - number[1])}");
             Console.WriteLine("\nIf you want to finish, put \"Y\" ");
             var word = Console.ReadLine();
             if (word != null && word.ToUpper().Equals("Y"))
@@ -22,21 +19,22 @@ public static class Program
         }
     }
 
-    private static int ValidateInfo()
+    private static int[] ValidateInfo()
     {
         while (true)
         {
-            Console.Write("Write a number and press Enter: ");
+            Console.Write("Write two numbers and press Enter: ");
             var input = Console.ReadLine();
-            if (input != null && input.Trim().Length != 0)
+            if (input != null && input.Split(" ").Length == 2)
             {
-                if (int.TryParse(input, out var number))
+                var splitInput = input.Split(" ");
+                if (int.TryParse(splitInput[0], out var number0) && int.TryParse(splitInput[1], out var number1))
                 {
-                    return number;
+                    return new[] { number0, number1 };
                 }
             }
 
-            Console.WriteLine("\nPlease write a number!");
+            Console.WriteLine("\nPlease write two number!");
         }
     }
 }

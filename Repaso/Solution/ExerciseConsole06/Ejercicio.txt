@@ -1,0 +1,4 @@
+Ejercicio VI:
+
+Crear una aplicación que, cuando el usuario ingrese dos números, realice la operación
+aritmética (a+b)*(a-b) e indique por pantalla el resultado. 

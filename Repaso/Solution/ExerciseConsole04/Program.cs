@@ -9,8 +9,8 @@ public static class Program
         while (Condition)
         {
             var word = ValidateInfo();
-            var firstWord = word!.Split(" ")[0].ToCharArray();
-            var secondWord = word!.Split(" ")[1].ToCharArray();
+            var firstWord = word.Split(" ")[0].ToCharArray();
+            var secondWord = word.Split(" ")[1].ToCharArray();
             Array.Sort(firstWord);
             Array.Sort(secondWord);
             Console.WriteLine(new string(firstWord).Equals(new string(secondWord))
@@ -25,7 +25,7 @@ public static class Program
         }
     }
 
-    private static string? ValidateInfo()
+    private static string ValidateInfo()
     {
         while (true)
         {
