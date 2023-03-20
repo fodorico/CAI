@@ -1,0 +1,7 @@
+Ejercicio XIII:
+
+Crear una aplicación que, cuando el usuario ingrese un número, calcule el factorial del
+mismo y lo muestre por pantalla.
+
+Nota: El factorial de un número es el producto de todos los números enteros positivos
+desde 1 hasta n. Por ejemplo: 5! = 1 x 2 x 3 x 4 x 5 = 120. 

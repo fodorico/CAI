@@ -1,0 +1,5 @@
+Ejercicio XIX:
+
+Crear una aplicación que, cuando el usuario indique la cantidad de palabras a ingresar y
+las cargue, las muestre por pantalla indicando el largo, en cantidad de caracteres, de
+cada una. 

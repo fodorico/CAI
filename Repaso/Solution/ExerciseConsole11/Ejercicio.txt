@@ -1,0 +1,7 @@
+Ejercicio XI:
+
+Crear una aplicación que, cuando el usuario ingrese un nombre, un apellido y la edad en
+un mismo input (en cualquier orden), indique cuál es cada uno.
+
+Por ejemplo, el usuario ingresa “26 Suyai Pecoraro”, el programa mostrará por pantalla
+“Nombre: Suyai, Apellido: Pecoraro, Edad: 26”. 

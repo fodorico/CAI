@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ld0Foca/3CGWJ/b6PcRatuGMhcupZ4be0NWrfS+mvykoPt1xGq+v5zR/dAJukDQD2VdejiAIkOORXjclHtKLzQ==",
+  "success": true,
+  "projectFilePath": "/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/ExerciseConsole17.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.devops.geopagoslan.net:8081/repository/nuget_default/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

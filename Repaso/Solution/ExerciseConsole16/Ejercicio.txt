@@ -1,0 +1,6 @@
+Ejercicio XVI:
+
+Crear una aplicación que, cuando el usuario ingrese un número, lo muestre por pantalla
+e indique cuántos dígitos tiene.
+
+Si el usuario ingresa 5629, mostrará “Número ingresado: 5629 – Tiene 4 dígitos”. 

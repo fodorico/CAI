@@ -1,0 +1,7 @@
+Ejercicio XX:
+
+Crear una aplicación que, cuando el usuario ingrese un número, indique la cantidad de
+números primos entre el cero y él, y su factorial.
+
+Por ejemplo, si el usuario ingresa 5, indicará “Hasta el 5 hay 3 números primos y el
+factorial de 5 es 120”. 

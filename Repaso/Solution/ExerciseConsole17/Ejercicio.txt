@@ -1,0 +1,4 @@
+Ejercicio XVII:
+
+Crear una aplicación que tome los nombres y sueldos de cinco empleados, para mostrar
+por pantalla el sueldo mayor y el nombre del empleado. 

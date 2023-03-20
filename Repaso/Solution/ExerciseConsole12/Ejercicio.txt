@@ -1,0 +1,8 @@
+Ejercicio XII:
+
+Crear una aplicación que, cuando el usuario ingrese dos fechas distintas, calcule la
+diferencia entre éstas y la muestre por pantalla, indicando años, meses y días por
+separado (en base 365).
+
+Por ejemplo, si ingreso las fechas 23/09/1993 y 09/04/1997, la aplicación devolverá por
+pantalla “La diferencia es de 3 años, 6 meses y 19 días”. 

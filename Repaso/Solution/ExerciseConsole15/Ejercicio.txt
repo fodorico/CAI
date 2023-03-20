@@ -1,0 +1,6 @@
+Ejercicio XV:
+
+Crear una aplicación que verifique, en tres oportunidades, si la clave ingresada por el
+usuario es correcta. La clave será el nombre del usuario, si acierta mostrará por pantalla
+“Bienvenido, *usuario*”, si no acierta mostrará “Acceso denegado. La contraseña no es
+correcta”, y cuando se cumplan los tres intentos mostrará “Clave bloqueada”. 

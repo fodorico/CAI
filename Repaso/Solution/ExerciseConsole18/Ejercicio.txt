@@ -1,0 +1,4 @@
+Ejercicio XVIII:
+
+Crear una aplicación que, cuando el usuario ingrese un número decimal, muestre por
+pantalla el número original y el mismo número en binario, octal y hexadecimal. 
