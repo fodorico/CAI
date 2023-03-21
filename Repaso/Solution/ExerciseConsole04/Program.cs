@@ -29,9 +29,8 @@ public static class Program
     {
         while (true)
         {
-            var input = "";
             Console.Write("Write two words and press Enter: ");
-            input = Console.ReadLine();
+            var input = Console.ReadLine();
             if (input != null && input.Split(" ").Length == 2)
             {
                 return input;

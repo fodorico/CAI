@@ -26,9 +26,8 @@ public static class Program
     {
         while (true)
         {
-            var input = "";
             Console.Write("Write a word and press Enter: ");
-            input = Console.ReadLine();
+            var input = Console.ReadLine();
             if (input != null && input.Trim().Length != 0)
             {
                 return input;

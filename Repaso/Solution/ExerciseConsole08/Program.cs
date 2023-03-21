@@ -23,7 +23,7 @@ public static class Program
     {
         while (true)
         {
-            Console.Write("Write a date(DD/MM/YY) between spaces and press Enter: ");
+            Console.Write("Write a date(DD/MM/YY) and press Enter: ");
             var input = Console.ReadLine();
             try
             {
@@ -32,9 +32,9 @@ public static class Program
                     return DateTime.Parse(input);
                 }
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                Console.WriteLine("\nPlease write five numbers!");
+                Console.WriteLine("\nPlease write a date!");
             }
         }
     }

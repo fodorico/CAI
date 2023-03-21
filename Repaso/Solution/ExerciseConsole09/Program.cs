@@ -13,16 +13,17 @@ public static class Program
             var input = Console.ReadLine();
             if (input != null && ListNames.Contains(input))
             {
-                Console.WriteLine($"\n¡Hi, {input}");
+                Console.WriteLine($"\n¡Hi, {input}!");
             }
             else
             {
                 Console.Write("\nI don't know you");
                 Console.Write("\nDo you like add you in the list? (Yes/No)");
                 var add = Console.ReadLine();
-                if (input != null && add!.Equals("Yes"))
+                if (input != null && add is "Yes")
                 {
                     ListNames.Add(input);
+                    Console.WriteLine("Name add!");
                 }
             }
 

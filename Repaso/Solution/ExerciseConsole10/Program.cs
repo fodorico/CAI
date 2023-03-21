@@ -13,14 +13,9 @@ public static class Program
             var keyString = key.ToString();
             if (char.IsLetter(key))
             {
-                if ("aeiou".Contains(keyString.ToLower()))
-                {
-                    Console.WriteLine($"\n {keyString} is a vowel");
-                }
-                else
-                {
-                    Console.WriteLine($"\n {keyString} is a consonant");
-                }
+                Console.WriteLine("aeiou".Contains(keyString.ToLower())
+                    ? $"\n {keyString} is a vowel"
+                    : $"\n {keyString} is a consonant");
             }
             else if (int.TryParse(keyString, out _))
             {
