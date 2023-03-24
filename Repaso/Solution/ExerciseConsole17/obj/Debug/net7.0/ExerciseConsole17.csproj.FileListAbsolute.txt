@@ -1,0 +1,15 @@
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/bin/Debug/net7.0/ExerciseConsole17
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/bin/Debug/net7.0/ExerciseConsole17.deps.json
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/bin/Debug/net7.0/ExerciseConsole17.runtimeconfig.json
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/bin/Debug/net7.0/ExerciseConsole17.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/bin/Debug/net7.0/ExerciseConsole17.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.csproj.AssemblyReference.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.AssemblyInfoInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.AssemblyInfo.cs
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.csproj.CoreCompileInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/refint/ExerciseConsole17.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ExerciseConsole17.genruntimeconfig.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Repaso/Solution/ExerciseConsole17/obj/Debug/net7.0/ref/ExerciseConsole17.dll
