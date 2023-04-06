@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/ExerciseContactBook.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/ExerciseContactBook.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/entity/v1/ContactBook.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/abstraction/AContact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/abstraction/AContact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactBook.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactCompany.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactCompany.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactPerson.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NyecYHS3tkJ8bmDqnX41Sbwp80" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache",
+      "/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache",
+      "/Users/fernando.odorico/.local/share/Symbols/src"
+    ]
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected=".NET Static Method.ExerciseContactBook.test.Test.Test_v2">
     <configuration name="ExerciseContactBook" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -24,5 +89,130 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="ExerciseContactBook.test.Test.TestApp" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <option name="CLASS_NAME" value="ExerciseContactBook.test.Test" />
+      <option name="METHOD_NAME" value="TestApp" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseContactBook.test.Test.TestV1" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <option name="CLASS_NAME" value="ExerciseContactBook.test.Test" />
+      <option name="METHOD_NAME" value="TestV1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseContactBook.test.Test.Test_v1" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <option name="CLASS_NAME" value="ExerciseContactBook.test.Test" />
+      <option name="METHOD_NAME" value="Test_v1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseContactBook.test.Test.Test_v2" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <option name="CLASS_NAME" value="ExerciseContactBook.test.Test" />
+      <option name="METHOD_NAME" value="Test_v2" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v2" />
+        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v1" />
+        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestV1" />
+        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="" />
+      <created>1680640832617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680640832617</updated>
+      <workItem from="1680640834788" duration="91000" />
+      <workItem from="1680641463971" duration="1845000" />
+      <workItem from="1680731153154" duration="8579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test/Test.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/test/Test.cs" initialLine="21" containingFunctionPresentation="Method 'TestV1'">
+            <startOffsets>
+              <option value="1017" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1043" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/main/entity/v1/Contact.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" initialLine="24" containingFunctionPresentation="Method 'AddCall'">
+            <startOffsets>
+              <option value="636" />
+            </startOffsets>
+            <endOffsets>
+              <option value="643" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

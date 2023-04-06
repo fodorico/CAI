@@ -1,6 +1,6 @@
 using ExerciseContactBook.main.abstraction;
 
-namespace ExerciseContactBook.main.entity;
+namespace ExerciseContactBook.main.entity.v2;
 
 public class ContactBook
 {
@@ -13,9 +13,17 @@ public class ContactBook
     {
     }
 
-    public void AddContact(AContact contact)
+    public ContactBook(string name, string type, AContact contacts, int maxCountContacts = 0)
     {
-        Contacts!.Add(contact);
+        Name = name;
+        Type = type;
+        Contacts!.Add(contacts);
+        MaxCountContacts = maxCountContacts > 0 ? maxCountContacts : 9999;
+    }
+
+    public void AddContact(AContact c)
+    {
+        Contacts!.Add(c);
     }
 
     public void DeleteContact(int id)

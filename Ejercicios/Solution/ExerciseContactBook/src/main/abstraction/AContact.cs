@@ -6,12 +6,10 @@ public abstract class AContact
     public string? Address { get; set; }
     public int Call { get; set; }
 
-    public AContact()
-    {
-    }
-
     public void AddCall()
     {
-        Call = Call++;
+        Call++;
     }
+
+    public abstract void toString();
 }
