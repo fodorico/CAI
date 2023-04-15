@@ -4,6 +4,7 @@ public static class Program
 {
     public static void Main(string[] args)
     {
+        
         var registryNumber = 882831;
         for (var i = 1; i <= Math.Abs(registryNumber % 1000); i++)
         {

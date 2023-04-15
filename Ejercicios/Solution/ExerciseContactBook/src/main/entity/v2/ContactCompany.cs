@@ -23,9 +23,10 @@ public class ContactCompany : AContact
     }
 
 
-    public override void toString()
+    public override string toString()
     {
         Console.WriteLine(
             $"Name:{BusinessName}, Time:{ConstructionDate:dd/MM/yy} ({GetAge()}), Number of calls:{Call}");
+        return Call.ToString();
     }
 }

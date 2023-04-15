@@ -24,9 +24,10 @@ public class ContactPerson : AContact
         return (Birthdate.Date > today.AddYears(-age)) ? age - 1 : age;
     }
     
-    public override void toString()
+    public override string toString()
     {
         Console.WriteLine(
             $"Name:{Name} {LastName}, Time:{Birthdate:dd/MM/yy} ({GetAge()}), Number of calls:{Call}");
+        return Call.ToString();
     }
 }

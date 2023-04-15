@@ -5,27 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/ExerciseContactBook.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/ExerciseContactBook.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/entity/v1/ContactBook.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Test.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net7.0/Utils.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/Utils.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/ValidateInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/bin/Debug/net7.0/Utils.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/bin/Debug/net7.0/Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/bin/Debug/net7.0/Utils.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/Utils.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/ref/Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/Debug/net7.0/refint/Utils.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Utils/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Resuelto/EjercicioAgenda/.idea/.idea.Agenda/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Resuelto/EjercicioAgenda/.idea/.idea.Agenda/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseContactBook.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseContactBook.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/ExerciseContactBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/ExerciseContactBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/ExerciseContactBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/ExerciseContactBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ExerciseContactBook.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ExerciseContactBook.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ExerciseContactBook.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ExerciseContactBook.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/abstraction/AContact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/abstraction/AContact.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactBook.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactCompany.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactCompany.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/entity/ContactPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactPerson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/v2/ContactCompany.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactCompany.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/entity/v2/ContactPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/entity/v2/ContactPerson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/Debug/net7.0/ExerciseConsole01.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/Debug/net7.0/ExerciseConsole01.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/ExerciseConsole01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/ExerciseConsole01.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole01/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Repaso/Solution/ExerciseConsole02/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +68,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68b06b8592b1287fd78f3ee68566d6a38d6e2f45b9a9e6ebd4d0e9972f7c29/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a421bf72ce1bd97d2cd3e8739d53f71ff6052294923c475677806b3df7381/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/ValidateInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/ValidateInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/ValidateInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/ValidateInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/ValidateInput.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,28 +95,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache",
-      "/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache",
-      "/Users/fernando.odorico/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/fernando.odorico/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/fernando.odorico/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Static Method.ExerciseContactBook.test.Test.Test_v2">
+}</component>
+  <component name="RunManager" selected=".NET Static Method.ExerciseContactBook.main.Program.Main">
     <configuration name="ExerciseContactBook" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -85,6 +131,22 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseContactBook.main.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_TFM" value="net7.0" />
+      <option name="CLASS_NAME" value="ExerciseContactBook.main.Program" />
+      <option name="METHOD_NAME" value="Main" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -155,8 +217,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v2" />
+        <item itemvalue=".NET Static Method.ExerciseContactBook.main.Program.Main" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v1" />
+        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v2" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestV1" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestApp" />
       </list>
@@ -172,7 +235,10 @@
       <updated>1680640832617</updated>
       <workItem from="1680640834788" duration="91000" />
       <workItem from="1680641463971" duration="1845000" />
-      <workItem from="1680731153154" duration="8579000" />
+      <workItem from="1680731153154" duration="11083000" />
+      <workItem from="1681076640165" duration="194000" />
+      <workItem from="1681223739396" duration="2818000" />
+      <workItem from="1681520951465" duration="11148000" />
     </task>
     <servers />
   </component>
@@ -187,30 +253,30 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/test/Test.cs</url>
-          <line>29</line>
-          <properties documentPath="$PROJECT_DIR$/test/Test.cs" initialLine="21" containingFunctionPresentation="Method 'TestV1'">
+          <url>file://$PROJECT_DIR$/src/main/entity/v1/ContactBook.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/src/main/entity/v1/ContactBook.cs" initialLine="34" containingFunctionPresentation="Method 'GetFrequentlyContact'">
             <startOffsets>
-              <option value="1017" />
+              <option value="795" />
             </startOffsets>
             <endOffsets>
-              <option value="1043" />
+              <option value="836" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/src/main/entity/v1/Contact.cs</url>
-          <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/src/main/entity/v1/Contact.cs" initialLine="24" containingFunctionPresentation="Method 'AddCall'">
+          <url>file://$PROJECT_DIR$/../Utils/ValidateInput.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/../Utils/ValidateInput.cs" initialLine="20" containingFunctionPresentation="Method 'ValidateString'">
             <startOffsets>
-              <option value="636" />
+              <option value="701" />
             </startOffsets>
             <endOffsets>
-              <option value="643" />
+              <option value="714" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

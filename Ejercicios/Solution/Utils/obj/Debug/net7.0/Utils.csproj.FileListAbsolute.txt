@@ -1,0 +1,12 @@
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/bin/Debug/net7.0/Utils.deps.json
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/bin/Debug/net7.0/Utils.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/bin/Debug/net7.0/Utils.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.csproj.AssemblyReference.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.AssemblyInfoInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.AssemblyInfo.cs
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.csproj.CoreCompileInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/refint/Utils.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/Utils.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Utils/obj/Debug/net7.0/ref/Utils.dll

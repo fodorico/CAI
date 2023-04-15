@@ -13,3 +13,6 @@
 /Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/obj/Debug/net7.0/ExerciseContactBook.pdb
 /Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/obj/Debug/net7.0/ExerciseContactBook.genruntimeconfig.cache
 /Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/obj/Debug/net7.0/ref/ExerciseContactBook.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/bin/Debug/net7.0/Utils.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/bin/Debug/net7.0/Utils.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseContactBook/obj/Debug/net7.0/ExerciseContactBook.csproj.CopyComplete

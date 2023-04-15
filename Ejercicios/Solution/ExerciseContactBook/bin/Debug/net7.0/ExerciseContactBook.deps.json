@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ExerciseContactBook/1.0.0": {
+        "dependencies": {
+          "Utils": "1.0.0"
+        },
         "runtime": {
           "ExerciseContactBook.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "runtime": {
+          "Utils.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ExerciseContactBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

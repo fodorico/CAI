@@ -11,5 +11,5 @@ public abstract class AContact
         Call++;
     }
 
-    public abstract void toString();
+    public abstract string toString();
 }
