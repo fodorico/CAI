@@ -1,0 +1,15 @@
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.deps.json
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.runtimeconfig.json
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.csproj.AssemblyReference.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.AssemblyInfoInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.AssemblyInfo.cs
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.csproj.CoreCompileInputs.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/refint/ExereciseUniversity.dll
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.pdb
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.genruntimeconfig.cache
+/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ref/ExereciseUniversity.dll
