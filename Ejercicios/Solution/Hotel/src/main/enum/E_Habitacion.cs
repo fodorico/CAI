@@ -1,6 +1,6 @@
 namespace Hotel.main.@enum;
 
-public enum Habitacion
+public enum E_Habitacion
 {
     Habitacion_1 = 1,
     Habitacion_2 = 2,

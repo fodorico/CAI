@@ -1,6 +1,6 @@
 namespace Hotel.main.entity;
 
-public class Hotel
+public class Reserva
 {
-
+    
 }

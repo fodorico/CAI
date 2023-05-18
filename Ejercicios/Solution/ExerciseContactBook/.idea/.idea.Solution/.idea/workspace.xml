@@ -9,25 +9,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega el ejercicio de Facultad - 01 Parte">
-      <change afterPath="$PROJECT_DIR$/../Utils/src/main/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/ref/Hotel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/refint/Hotel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/enum/E_TipoDocumento.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/services/S_Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/test/mocks/M_Cliente.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/Hotel.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Debug/net7.0/Hotel.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Hotel.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Hotel.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/Hotel.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/src/main/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/Hotel.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/abstraction/APerson.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/enum/E_Habitacion.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +56,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2NyecYHS3tkJ8bmDqnX41Sbwp80" />
   <component name="ProjectLevelVcsManager">
@@ -79,7 +87,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Static Method.ExerciseContactBook.main.Program.Main">
+  <component name="RunManager" selected=".NET Project.Hotel (1)">
     <configuration name="ExerciseContactBook" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -94,6 +102,24 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Hotel (1)" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../Hotel/Hotel.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net7.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -150,22 +176,6 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="ExerciseContactBook.test.Test.TestApp" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
-      <option name="PROJECT_TFM" value="net7.0" />
-      <option name="CLASS_NAME" value="ExerciseContactBook.test.Test" />
-      <option name="METHOD_NAME" value="TestApp" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
     <configuration name="ExerciseContactBook.test.Test.TestV1" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -216,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.Hotel (1)" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.main.Program.Main" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v1" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.Test_v2" />
         <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestV1" />
-        <item itemvalue=".NET Static Method.ExerciseContactBook.test.Test.TestApp" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +252,8 @@
       <workItem from="1683938406924" duration="887000" />
       <workItem from="1683939300418" duration="6767000" />
       <workItem from="1684378501104" duration="371000" />
+      <workItem from="1684378877222" duration="786000" />
+      <workItem from="1684379999187" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>
