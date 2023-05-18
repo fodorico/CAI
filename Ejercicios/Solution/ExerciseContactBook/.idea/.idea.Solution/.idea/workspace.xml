@@ -7,55 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/ExereciseUniversity.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/bin/Debug/net7.0/ExereciseUniversity.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUnivercity.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ExereciseUniversity.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/ref/ExereciseUniversity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/Debug/net7.0/refint/ExereciseUniversity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUnivercity.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUnivercity.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUnivercity.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUniversity.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUniversity.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/obj/ExereciseUniversity.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/abstraction/APerson.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Employee.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Executive.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Janitor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Salary.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/Teacher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/entity/University.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/enum/EmployeeType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/resources/facultad-enunciado.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/resources/facultad-uml.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ExerciseContactBook.csproj.AssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega el ejercicio de Facultad - 01 Parte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +25,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2NyecYHS3tkJ8bmDqnX41Sbwp80" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -112,6 +65,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciseContactBook.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Hotel" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../Hotel/Hotel/Hotel.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -245,15 +216,26 @@
       <workItem from="1681520951465" duration="11564000" />
       <workItem from="1683938331132" duration="11000" />
       <workItem from="1683938406924" duration="887000" />
-      <workItem from="1683939300418" duration="6446000" />
+      <workItem from="1683939300418" duration="6767000" />
     </task>
+    <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
+      <created>1683949398851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683949398851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Se agrega el ejercicio de Facultad - 01 Parte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega el ejercicio de Facultad - 01 Parte" />
   </component>
 </project>
