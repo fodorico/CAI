@@ -8,9 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="src\main\abstraction\" />
-      <Folder Include="src\main\entity\" />
-      <Folder Include="src\main\enum\" />
       <Folder Include="src\main\resources\" />
       <Folder Include="src\main\services\" />
       <Folder Include="test\" />
