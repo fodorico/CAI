@@ -23,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/../../../Hotel/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hotel/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Hotel/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hotel/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Hotel/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hotel/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hotel/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hotel/src/main/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +244,7 @@
       <workItem from="1684378877222" duration="786000" />
       <workItem from="1684379999187" duration="1540000" />
       <workItem from="1684795225516" duration="1399000" />
-      <workItem from="1684797785398" duration="325000" />
+      <workItem from="1684797785398" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>
