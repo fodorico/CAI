@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/Hotel.csproj": {}
+    "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\Hotel.csproj": {}
   },
   "projects": {
-    "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/Hotel.csproj": {
+    "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/Hotel.csproj",
+        "projectUniqueName": "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\Hotel.csproj",
         "projectName": "Hotel",
-        "projectPath": "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/Hotel.csproj",
-        "packagesPath": "/Users/fernando.odorico/.nuget/packages/",
-        "outputPath": "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/obj/",
+        "projectPath": "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\Hotel.csproj",
+        "packagesPath": "C:\\Users\\Jacinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fernando.odorico/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jacinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "http://nexus.devops.geopagoslan.net:8081/repository/nuget_default/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

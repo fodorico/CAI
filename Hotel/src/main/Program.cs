@@ -44,7 +44,7 @@ public class Program
                         //habitacion
 
                         Console.WriteLine(
-                            "\nGracias Usuario, tu reserva se realizo con exito maestro: \nUsuario: jorge messi \nHotel: Hotel Rojo \nHabiutacion: Suite \nHuespedes: 2 \nPrecio total $10 \n\nMuchas gracias");
+                            "\nGracias sr usuario, tu reserva se realizo con exito maestro: \nUsuario: jorge messi \nHotel: Hotel Rojo \nHabiutacion: Suite \nHuespedes: 2 \nPrecio total $10 \n\nMuchas gracias");
                         Console.ReadLine();
                         break;
                 }

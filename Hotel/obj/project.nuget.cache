@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkTbJWBsqRxlNebexhf04ioECW49z0IAJMHGpB7RMqzpMVaFlESkd/F+j4h5r/2T8QqE5hUpfIicZu8i6jTEcg==",
+  "dgSpecHash": "mfZuTOT6qA4l6mBC9pO5pZhhMFAdAe9aBm5gEZQhPwavAp1yrqLgs9tpSAytxAFaOffEYxMQeh9Pc50Se0Nc2g==",
   "success": true,
-  "projectFilePath": "/Users/fernando.odorico/Pictures/Github/CAI/Hotel/Hotel.csproj",
+  "projectFilePath": "C:\\Users\\Jacinto\\Documents\\GitHub\\CAI\\Hotel\\Hotel.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.devops.geopagoslan.net:8081/repository/nuget_default/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
