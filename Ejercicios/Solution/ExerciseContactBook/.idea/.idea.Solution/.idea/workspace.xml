@@ -9,33 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega una base.">
-      <change afterPath="$PROJECT_DIR$/Solution.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/bin/Debug/net7.0/Hotel.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/ref/Hotel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/refint/Hotel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/enum/E_TipoDocumento.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/services/S_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/test/mocks/M_Cliente.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/Hotel.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/abstraction/APerson.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/enum/E_Habitacion.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +228,8 @@
       <workItem from="1683939300418" duration="6767000" />
       <workItem from="1684378501104" duration="371000" />
       <workItem from="1684378877222" duration="786000" />
-      <workItem from="1684379999187" duration="1500000" />
+      <workItem from="1684379999187" duration="1540000" />
+      <workItem from="1684795225516" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>
