@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Dp6i65hYsT9e0sIK/SqKMDjx0u+kfHDw5CneSfLoCGMGmB4rVypVudwORYEkurTJMbybtA9AlHKi+SHdQ55ICQ==",
+  "dgSpecHash": "lzW+fohpAVxTULigKErPA6k0Fg/IOP/mxln5qvyfJZLPbLpiW56/iOPf0SOhAsHkE4PYu8+/Lrc/39sAJWPXig==",
   "success": true,
   "projectFilePath": "/Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Hotel/Hotel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fernando.odorico/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1803",

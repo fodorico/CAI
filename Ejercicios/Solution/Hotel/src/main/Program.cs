@@ -20,9 +20,9 @@ public class Program
                     string DNI = Console.ReadLine();
 
                     Console.WriteLine("\nBienvenido *muestra nombre*, por favor ingrese una opcion\n1)Consultar datos \n2) Consultar reserva \n3) Crear Reserva  ");
-                    string opcion = Console.ReadLine();
+                    string opcion2 = Console.ReadLine();
                     
-                   switch (opcion)
+                   switch (opcion2)
                     {
                         case "3":
                             Console.WriteLine("\npor favor seleccione un hotel \n1)Hotel grande \n2)Hotel Rojo");
