@@ -9,23 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega una base.">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Cliente.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Factory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Habitacion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Hotel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Reserva.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Reserva.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/E_Habitacion.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/E_TipoDocumento.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/mapper/M_Cliente.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/test/mocks/M_Cliente.cs" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hotel/src/main/resources/CAI - UML-Version 1.0.2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hotel/src/main/enum/E_Habitacion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hotel/src/main/enum/E_TipoDocumento.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +239,7 @@
       <workItem from="1684795225516" duration="1399000" />
       <workItem from="1684797785398" duration="709000" />
       <workItem from="1684800728499" duration="42000" />
-      <workItem from="1685658018818" duration="7056000" />
+      <workItem from="1685658018818" duration="7382000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>
