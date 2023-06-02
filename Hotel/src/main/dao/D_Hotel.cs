@@ -19,6 +19,12 @@ public class D_Hotel : D_Factory
         var jsonClient = "....";
         return StringToJsonArray<Hotel>(jsonClient);
     }
+    
+    public List<Hotel> Load<Hotel>(int id)
+    {
+        var jsonClient = "....";
+        return StringToJsonArray<Hotel>(jsonClient);
+    }
 
     public Hotel Select<Hotel>(int id)
     {

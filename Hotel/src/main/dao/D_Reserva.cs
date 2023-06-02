@@ -19,6 +19,12 @@ public class D_Reserva : D_Factory
         var jsonClient = "....";
         return StringToJsonArray<Reserva>(jsonClient);
     }
+    
+    public List<Reserva> Load<Reserva>(int id)
+    {
+        var jsonClient = "....";
+        return StringToJsonArray<Reserva>(jsonClient);
+    }
 
     public Reserva Select<Reserva>(int id)
     {

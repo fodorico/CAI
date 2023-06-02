@@ -2,10 +2,10 @@ namespace Hotel.main.entity;
 
 public class Cliente : A_Person
 {
-    public int? id { get; set; }
+    public int id { get; set; }
 
-    public Cliente(int? id, int? dni, string? nombre, string? apellido, string? direccion, string? email,
-        string? telefono, string? usuario, DateTime fechaNacimiento, DateTime fechaAlta, bool? activo)
+    public Cliente(int id, int dni, string nombre, string apellido, string direccion, string email,
+        string telefono, string usuario, DateTime fechaNacimiento, DateTime fechaAlta, bool activo)
     {
         this.id = id;
         this.dni = dni;
