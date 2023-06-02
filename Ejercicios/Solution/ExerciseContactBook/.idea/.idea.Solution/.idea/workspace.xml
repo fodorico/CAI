@@ -9,25 +9,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega una base.">
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Factory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Habitacion.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Hotel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Reserva.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hotel/src/main/mapper/M_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Hotel/src/main/resources/UML.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solution.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/Hotel.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/Debug/net7.0/Hotel.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/Hotel.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/Hotel.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hotel/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Utils/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Utils/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/abstraction/A_Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Cliente.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Factory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Habitacion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Hotel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Reserva.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/dao/D_Reserva.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Cliente.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Habitacion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Hotel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hotel/src/main/entity/Reserva.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/E_Habitacion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/enum/E_TipoDocumento.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/src/main/mapper/M_Cliente.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/test/mocks/M_Cliente.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,9 @@
     <setting file="file://$PROJECT_DIR$/test/Test.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../ExerciseUnivercity/ExereciseUniversity/src/main/abstraction/APerson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Hotel/src/main/entity/Cliente.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Hotel/src/main/entity/Cliente.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/fernando.odorico/Pictures/Github/CAI/Ejercicios/Solution/Hotel/src/main/entity/Cliente.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -252,7 +253,7 @@
       <workItem from="1684795225516" duration="1399000" />
       <workItem from="1684797785398" duration="709000" />
       <workItem from="1684800728499" duration="42000" />
-      <workItem from="1685658018818" duration="4712000" />
+      <workItem from="1685658018818" duration="7056000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>

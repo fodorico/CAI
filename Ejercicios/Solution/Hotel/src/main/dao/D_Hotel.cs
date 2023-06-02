@@ -4,21 +4,26 @@ namespace Hotel.main.dao;
 
 public class D_Hotel : D_Factory
 {
-    public List<Hotel> StringToJson<Hotel>(string json)
+    public List<Hotel> StringToJsonArray<Hotel>(string json)
     {
         return JsonConvert.DeserializeObject<List<Hotel>>(json);
+    }
+
+    public Hotel StringToJsonObject<Hotel>(string json)
+    {
+        return JsonConvert.DeserializeObject<Hotel>(json);
     }
 
     public List<Hotel> Load<Hotel>()
     {
         var jsonClient = "....";
-        return StringToJson<Hotel>(jsonClient);
+        return StringToJsonArray<Hotel>(jsonClient);
     }
 
     public Hotel Select<Hotel>(int id)
     {
         var jsonClient = "....";
-        return StringToJson<Hotel>(jsonClient)[0];
+        return StringToJsonObject<Hotel>(jsonClient);
     }
 
     public void Insert<Hotel>(Hotel data)

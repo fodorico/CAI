@@ -5,7 +5,8 @@ public class Program
     private const string OpcionElegida = "Por favor seleccione la opción deseada: ";
     public static void Main()
     {
-        MenuInicial();
+        //MenuInicial();
+        
     }
 
     private static void MenuInicial()
