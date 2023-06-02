@@ -16,13 +16,13 @@ public class D_Cliente : D_Factory
 
     public List<Cliente> Load<Cliente>()
     {
-        var jsonClient = "....";
+        var jsonClient = "...."; //WebHelper.Get("cliente");
         return StringToJsonArray<Cliente>(jsonClient);
     }
 
     public Cliente Select<Cliente>(int id)
     {
-        var jsonClient = "....";
+        var jsonClient = "...."; //WebHelper.Get("cliente/"+id);
         return StringToJsonObject<Cliente>(jsonClient);
     }
 

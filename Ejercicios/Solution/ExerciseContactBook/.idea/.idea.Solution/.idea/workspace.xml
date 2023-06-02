@@ -8,11 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega una base.">
-      <change afterPath="$PROJECT_DIR$/../../../Hotel/src/main/resources/CAI - UML-Version 1.0.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Hotel/src/main/enum/E_Habitacion.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Hotel/src/main/enum/E_TipoDocumento.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="d6312435-f26e-43b9-b755-b303ac3c593e" name="Changes" comment="Se agrega una base." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +235,7 @@
       <workItem from="1684795225516" duration="1399000" />
       <workItem from="1684797785398" duration="709000" />
       <workItem from="1684800728499" duration="42000" />
-      <workItem from="1685658018818" duration="7382000" />
+      <workItem from="1685658018818" duration="7736000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrega el ejercicio de Facultad - 01 Parte">
       <created>1683949398851</created>
