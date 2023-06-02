@@ -1,24 +1,22 @@
-using Hotel.main.@enum;
-
 namespace Hotel.main.entity;
 
 public class Cliente : A_Person
 {
-    private int _legajo; // field
-    
-    public int Legajo // property
-    {
-        get { return _legajo; } // get method
-        set { _legajo = value; } // set method
-    }
+    public int? id { get; set; }
 
-    public Cliente(int legajo, E_TipoDocumento eTipoDocumento, int documento, string nombre, string apellido, int telefono)
+    public Cliente(int? id, int? dni, string? nombre, string? apellido, string? direccion, string? email,
+        string? telefono, string? usuario, DateTime fechaNacimiento, DateTime fechaAlta, bool? activo)
     {
-        Legajo = legajo;
-        ETipoDocumento = eTipoDocumento;
-        Documento = documento;
-        Nombre = nombre;
-        Apellido = apellido;
-        Telefono = telefono;
+        this.id = id;
+        this.dni = dni;
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.direccion = direccion;
+        this.email = email;
+        this.telefono = telefono;
+        this.usuario = usuario;
+        this.fechaNacimiento = fechaNacimiento;
+        this.fechaAlta = fechaAlta;
+        this.activo = activo;
     }
 }
