@@ -1,43 +1,44 @@
-using Newtonsoft.Json;
+using Hotel.main.abstraction;
+using Hotel.main.entity;
+using Hotel.main.services;
 
 namespace Hotel.main.dao;
 
-public class D_Habitacion : D_Factory
+public class D_Habitacion : A_JsonConvert<Habitacion>, D_Factory<Habitacion>
 {
-    public List<Habitacion> StringToJsonArray<Habitacion>(string json)
+    public List<Habitacion> Load()
     {
-        return JsonConvert.DeserializeObject<List<Habitacion>>(json);
+        var jsonClient = WebHelper.Get("Hotel/Habitaciones");
+        return StringToJsonArray(jsonClient);
     }
 
-    public Habitacion StringToJsonObject<Habitacion>(string json)
+    public Habitacion Select(string id)
     {
-        return JsonConvert.DeserializeObject<Habitacion>(json);
+        var jsonClient = WebHelper.Get("Hotel/Habitaciones/" + id);
+        return StringToJsonObject(jsonClient);
     }
 
-    public List<Habitacion> Load<Habitacion>()
+    public ResultadoTransaccion Insert(Habitacion c)
     {
-        var jsonClient = "....";
-        return StringToJsonArray<Habitacion>(jsonClient);
+        var obj = new S_Habitacion().HabitacionMap(c);
+        var json = WebHelper.Post("Hotel/Habitaciones", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public Habitacion Select<Habitacion>(int id)
+    public ResultadoTransaccion Update(Habitacion c)
     {
-        var jsonClient = "....";
-        return StringToJsonObject<Habitacion>(jsonClient);
+        var obj = new S_Habitacion().HabitacionMap(c);
+        var json = WebHelper.Put("Hotel/Habitaciones", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public void Insert<Habitacion>(Habitacion data)
+    public ResultadoTransaccion Delete(Habitacion c)
     {
-        throw new NotImplementedException();
-    }
+        var obj = new S_Habitacion().HabitacionMap(c);
+        var json = WebHelper.Delete("Hotel/Habitaciones", obj);
 
-    public void Update<Habitacion>(Habitacion data)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Delete(int id)
-    {
-        throw new NotImplementedException();
+        return StringToJsonObjectTransaccion(json);
     }
 }

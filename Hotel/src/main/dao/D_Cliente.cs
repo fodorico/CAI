@@ -1,43 +1,45 @@
-using Newtonsoft.Json;
+using Hotel.main.abstraction;
+using Hotel.main.entity;
+using Hotel.main.services;
 
 namespace Hotel.main.dao;
 
-public class D_Cliente : D_Factory
+public class D_Cliente : A_JsonConvert<Cliente>, D_Factory<Cliente>
 {
-    public List<Cliente> StringToJsonArray<Cliente>(string json)
+    public List<Cliente> Load()
     {
-        return JsonConvert.DeserializeObject<List<Cliente>>(json);
+        var jsonClient = WebHelper.Get("cliente");
+        return StringToJsonArray(jsonClient);
     }
 
-    public Cliente StringToJsonObject<Cliente>(string json)
+    public Cliente Select(string id)
     {
-        return JsonConvert.DeserializeObject<Cliente>(json);
+        var jsonClient = WebHelper.Get("cliente/" + id);
+        // NO TRAE LOS USUARIOS ACTUALIZADOS
+        return StringToJsonArray(jsonClient)[0];
     }
 
-    public List<Cliente> Load<Cliente>()
+    public ResultadoTransaccion Insert(Cliente c)
     {
-        var jsonClient = "...."; //WebHelper.Get("cliente");
-        return StringToJsonArray<Cliente>(jsonClient);
+        var obj = new S_Cliente().ClienteMap(c);
+        var json = WebHelper.Post("cliente", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public Cliente Select<Cliente>(int id)
+    public ResultadoTransaccion Update(Cliente c)
     {
-        var jsonClient = "...."; //WebHelper.Get("cliente/"+id);
-        return StringToJsonObject<Cliente>(jsonClient);
+        var obj = new S_Cliente().ClienteMap(c);
+        var json = WebHelper.Put("cliente", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public void Insert<Cliente>(Cliente data)
+    public ResultadoTransaccion Delete(Cliente c)
     {
-        throw new NotImplementedException();
-    }
+        var obj = new S_Cliente().ClienteMap(c);
+        var json = WebHelper.Delete("cliente", obj);
 
-    public void Update<Cliente>(Cliente data)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Delete(int id)
-    {
-        throw new NotImplementedException();
+        return StringToJsonObjectTransaccion(json);
     }
 }

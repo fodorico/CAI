@@ -1,49 +1,50 @@
-using Newtonsoft.Json;
+using Hotel.main.abstraction;
+using Hotel.main.entity;
+using Hotel.main.services;
 
 namespace Hotel.main.dao;
 
-public class D_Hotel : D_Factory
+public class D_Hotel : A_JsonConvert<entity.Hotel>, D_Factory<entity.Hotel>
 {
-    public List<Hotel> StringToJsonArray<Hotel>(string json)
+    public List<entity.Hotel> Load()
     {
-        return JsonConvert.DeserializeObject<List<Hotel>>(json);
+        var jsonClient = WebHelper.Get("Hotel/Hoteles");
+        return StringToJsonArray(jsonClient);
     }
 
-    public Hotel StringToJsonObject<Hotel>(string json)
+    public List<entity.Hotel> Load(string id)
     {
-        return JsonConvert.DeserializeObject<Hotel>(json);
+        var jsonClient = WebHelper.Get("Hotel/Hoteles/" + id);
+        return StringToJsonArray(jsonClient);
     }
 
-    public List<Hotel> Load<Hotel>()
+    public entity.Hotel Select(string id)
     {
-        var jsonClient = "....";
-        return StringToJsonArray<Hotel>(jsonClient);
-    }
-    
-    public List<Hotel> Load<Hotel>(int id)
-    {
-        var jsonClient = "....";
-        return StringToJsonArray<Hotel>(jsonClient);
+        var jsonClient = WebHelper.Get("Hotel/Hoteles/" + id);
+        return StringToJsonObject(jsonClient);
     }
 
-    public Hotel Select<Hotel>(int id)
+    public ResultadoTransaccion Insert(entity.Hotel c)
     {
-        var jsonClient = "....";
-        return StringToJsonObject<Hotel>(jsonClient);
+        var obj = new S_Hotel().HotelMap(c);
+        var json = WebHelper.Post("Hotel/Hoteles", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public void Insert<Hotel>(Hotel data)
+    public ResultadoTransaccion Update(entity.Hotel c)
     {
-        throw new NotImplementedException();
+        var obj = new S_Hotel().HotelMap(c);
+        var json = WebHelper.Put("Hotel/Hoteles", obj);
+
+        return StringToJsonObjectTransaccion(json);
     }
 
-    public void Update<Hotel>(Hotel data)
+    public ResultadoTransaccion Delete(entity.Hotel c)
     {
-        throw new NotImplementedException();
-    }
+        var obj = new S_Hotel().HotelMap(c);
+        var json = WebHelper.Delete("Hotel/Hoteles", obj);
 
-    public void Delete(int id)
-    {
-        throw new NotImplementedException();
+        return StringToJsonObjectTransaccion(json);
     }
 }

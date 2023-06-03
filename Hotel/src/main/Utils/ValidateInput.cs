@@ -4,7 +4,7 @@ namespace Utils;
 
 public static class ValidateInput
 {
-    public const string ConfirmMessage = "Desea guardar este cambio? ";
+    public const string ConfirmMessage = "Desea guardar este cambio? (Si / No): ";
     private const string Message = "Por favor, ingrese un valor correcto!";
 
     public static string ValidateString(string text, string optional = "", string[]? list = null)
@@ -83,6 +83,27 @@ public static class ValidateInput
                 if (input != null)
                 {
                     return DateTime.ParseExact(input, "dd-MM-yyyy", CultureInfo.InvariantCulture);
+                }
+            }
+            catch (Exception)
+            {
+                Console.Clear();
+                Console.WriteLine(Message);
+            }
+        }
+    }
+
+    public static bool ValidateBoolean(string text)
+    {
+        while (true)
+        {
+            Console.Write(text);
+            var input = Console.ReadLine()?.ToUpper();
+            try
+            {
+                if (input is "SI" or "NO")
+                {
+                    return input.Equals("SI");
                 }
             }
             catch (Exception)

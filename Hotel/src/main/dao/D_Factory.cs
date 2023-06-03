@@ -1,12 +1,12 @@
+using Hotel.main.entity;
+
 namespace Hotel.main.dao;
 
-public interface D_Factory
+public interface D_Factory<T>
 {
-    List<T> StringToJsonArray<T>(string json);
-    T StringToJsonObject<T>(string json);
-    List<T> Load<T>();
-    T Select<T>(int id);
-    void Delete(int id);
-    void Insert<T>(T data);
-    void Update<T>(T data);
+    List<T> Load();
+    T Select(string id);
+    ResultadoTransaccion Insert(T data);
+    ResultadoTransaccion Update(T data);
+    ResultadoTransaccion Delete(T data);
 }

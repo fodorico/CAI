@@ -1,3 +1,5 @@
+using System.Collections.Specialized;
+
 namespace Hotel.main.entity;
 
 public class Cliente : A_Person

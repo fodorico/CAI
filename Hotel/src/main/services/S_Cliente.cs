@@ -1,3 +1,4 @@
+using System.Collections.Specialized;
 using Hotel.main.dao;
 using Hotel.main.entity;
 using Utils;
@@ -8,7 +9,7 @@ public class S_Cliente
 {
     public Cliente GetClientData(int id)
     {
-        return new D_Cliente().Select<Cliente>(id);
+        return new D_Cliente().Select(id.ToString());
     }
 
     public void ClienteMenu(Cliente c)
@@ -24,37 +25,33 @@ public class S_Cliente
 
     private void ShowData(Cliente c)
     {
-        // Mostrar en pantalla los datos del Cliente
-        Console.WriteLine("|-----------------------------------|");
-        Console.WriteLine("DNI: " + c.dni);
-        Console.WriteLine("Nombre Completo: " + c.nombre + " " + c.apellido);
-        Console.WriteLine("Direccion: " + c.direccion);
-        Console.WriteLine("Email: " + c.email);
-        Console.WriteLine("Telefono: " + c.telefono);
-        Console.WriteLine("Legajo: " + c.usuario);
-        Console.WriteLine("Fecha de Nacimiento: " + c.fechaNacimiento);
-        Console.WriteLine("|-----------------------------------|\n\n");
+        Console.WriteLine("══════════════════════════════════════════════════════");
+        Console.WriteLine("                    Detalle Cliente                   ");
+        Console.WriteLine("══════════════════════════════════════════════════════");
+        Console.WriteLine("     DNI: " + c.dni +"\t\tNombre Completo: " + c.nombre + " " + c.apellido);
+        Console.WriteLine("     Direccion: " + c.direccion+"\t\tTelefono: " + c.telefono);
+        Console.WriteLine("     Legajo: " + c.usuario +"\t\tFecha de Nacimiento: " + c.fechaNacimiento);
+        Console.WriteLine("     Email: " + c.email);
+        Console.WriteLine("══════════════════════════════════════════════════════");
     }
 
     private int ShowMenuCliente()
     {
+        Console.WriteLine("══════════════════════════════════════════════════════");
+        Console.WriteLine("                    Menú Cliente                   ");
+        Console.WriteLine("══════════════════════════════════════════════════════");
         Console.WriteLine("¿Qué datos le gustaría modificar?");
-        Console.WriteLine("1) DNI");
-        Console.WriteLine("2) Nombre");
-        Console.WriteLine("3) Apellido");
-        Console.WriteLine("4) Dirección");
-        Console.WriteLine("5) Email");
-        Console.WriteLine("6) Telefono");
-        Console.WriteLine("7) Legajo");
-        Console.WriteLine("8) Fecha de Nacimiento");
-        Console.WriteLine("0) Salir");
+        Console.WriteLine("     1. DNI\t\t2. Nombre");
+        Console.WriteLine("     3. Apellido\t\t4. Dirección");
+        Console.WriteLine("     5. Email\t\t6. Telefono");
+        Console.WriteLine("     7. Legajo\t\t8. Fecha de Nacimiento");
+        Console.WriteLine("     0. Salir");
+        Console.WriteLine("══════════════════════════════════════════════════════");
         return ValidateInput.ValidateInteger("Ingrese la opción deseada: ", -1, 9, true);
     }
 
     private bool SwitchMenuCliente(int i, Cliente c)
     {
-        // Permitir Modificar los datos
-        // Guardar los datos en las variables tambien
         switch (i)
         {
             case 1:
@@ -95,6 +92,26 @@ public class S_Cliente
             default:
                 return false;
         }
+
+        new D_Cliente().Update(c);
         return true;
+    }
+
+    public NameValueCollection ClienteMap(Cliente c)
+    {
+        var n = new NameValueCollection
+        {
+            { "id", c.id.ToString() },
+            { "Nombre", c.nombre },
+            { "Apellido", c.apellido },
+            { "Direccion", c.direccion },
+            { "Telefono", c.telefono },
+            { "Email", c.email },
+            { "DNI", c.dni.ToString() },
+            { "Activo", c.activo.ToString() },
+            { "FechaNacimiento", c.fechaNacimiento.ToString("yyyy-MM-dd") },
+            { "Usuario", c.usuario }
+        };
+        return n;
     }
 }

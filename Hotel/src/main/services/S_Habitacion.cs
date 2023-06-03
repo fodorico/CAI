@@ -5,36 +5,36 @@ using Utils;
 
 namespace Hotel.main.services;
 
-public class S_Reserva
+public class S_Habitacion
 {
-    public List<Reserva> GetReservasData(string id)
+    public List<entity.Hotel> GetHotelData(string id)
     {
-        return new D_Reserva().Load(id);
+        return new D_Hotel().Load(id);
     }
 
-    public void ReservaMenu(Reserva r)
+    public void HotelMenu(entity.Hotel h)
     {
         var opt = true;
         while (opt)
         {
             Console.Clear();
-            ShowData(r);
-            // opt = SwitchMenuReserva(ShowMenuReserva(), r);
+            ShowData(h);
+            opt = SwitchMenuHotel(ShowMenuHotel(), h);
         }
     }
 
-    private void ShowData(Reserva r)
+    private void ShowData(entity.Hotel h)
     {
         Console.WriteLine("|-----------------------------------|");
         Console.WriteLine("Nombre: " + h.nombre);
         Console.WriteLine("Estrellas: " + h.estrellas);
         Console.WriteLine("Direccion: " + h.direccion);
         Console.WriteLine("Amenities: " + h.amenities);
-        
+
         Console.WriteLine("|-----------------------------------|\n\n");
     }
 
-    private int ShowMenuReserva()
+    private int ShowMenuHotel()
     {
         Console.WriteLine("¿Qué datos le gustaría modificar?");
         Console.WriteLine("1) Nombre");
@@ -45,7 +45,7 @@ public class S_Reserva
         return ValidateInput.ValidateInteger("Ingrese la opción deseada: ", -1, 5, true);
     }
 
-    private bool SwitchMenuReserva(int i, entity.Hotel h)
+    private bool SwitchMenuHotel(int i, entity.Hotel h)
     {
         switch (i)
         {
@@ -72,8 +72,7 @@ public class S_Reserva
         new D_Hotel().Update(h);
         return true;
     }
-
-    public NameValueCollection ReservaMap(Reserva r)
+    public NameValueCollection HabitacionMap(Habitacion h)
     {
         var n = new NameValueCollection
         {
