@@ -11,6 +11,12 @@ public class D_Habitacion : A_JsonConvert<Habitacion>, D_Factory<Habitacion>
         var jsonClient = WebHelper.Get("Hotel/Habitaciones");
         return StringToJsonArray(jsonClient);
     }
+    
+    public List<Habitacion> Load(string id)
+    {
+        var jsonClient = WebHelper.Get("Hotel/Habitaciones/" + id);
+        return StringToJsonArray(jsonClient);
+    }
 
     public Habitacion Select(string id)
     {

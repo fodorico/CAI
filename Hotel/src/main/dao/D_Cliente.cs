@@ -11,11 +11,17 @@ public class D_Cliente : A_JsonConvert<Cliente>, D_Factory<Cliente>
         var jsonClient = WebHelper.Get("cliente");
         return StringToJsonArray(jsonClient);
     }
+    
+    public List<Cliente> Load(string id)
+    {
+        var jsonClient = WebHelper.Get("cliente/"+ id);
+        return StringToJsonArray(jsonClient);
+    }
 
     public Cliente Select(string id)
     {
         var jsonClient = WebHelper.Get("cliente/" + id);
-        // NO TRAE LOS USUARIOS ACTUALIZADOS
+        // TODO: NO TRAE LOS USUARIOS ACTUALIZADOS
         return StringToJsonArray(jsonClient)[0];
     }
 
