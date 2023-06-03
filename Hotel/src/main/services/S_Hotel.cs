@@ -17,30 +17,60 @@ public class S_Hotel
         while (opt)
         {
             Console.Clear();
-            ShowData(h);
+            ShowData();
+            ShowDataHotel(h);
             opt = SwitchMenuHotel(ShowMenuHotel(), h);
         }
     }
 
-    private void ShowData(entity.Hotel h)
+    public void HotelMenu(List<entity.Hotel> h)
     {
-        Console.WriteLine("|-----------------------------------|");
-        Console.WriteLine("Nombre: " + h.nombre);
-        Console.WriteLine("Estrellas: " + h.estrellas);
-        Console.WriteLine("Direccion: " + h.direccion);
-        Console.WriteLine("Amenities: " + h.amenities);
+        var opt = true;
+        while (opt)
+        {
+            Console.Clear();
+            ShowData();
+            foreach (var hotel in h)
+            {
+                ShowDataHotel(hotel);
+            }
 
-        Console.WriteLine("|-----------------------------------|\n\n");
+            var cod = ValidateInput.ValidateInteger("Por favor escriba el Código del Hotel que desea modificar: ", 0,
+                999, true);
+            opt = SwitchMenuHotel(ShowMenuHotel(), h.FirstOrDefault(t => t.id == cod));
+        }
+    }
+
+    private void ShowData()
+    {
+        Console.Clear();
+        Console.WriteLine("══════════════════════════════════════════════════════");
+        Console.WriteLine("                    Detalle Hotel                   ");
+        Console.WriteLine("══════════════════════════════════════════════════════");
+    }
+
+    private static void ShowDataHotel(entity.Hotel h)
+    {
+        Console.WriteLine("     Código: " + h.id);
+        Console.WriteLine("     Nombre: " + h.nombre);
+        Console.WriteLine("     Estrellas: " + h.estrellas);
+        Console.WriteLine("     Direccion: " + h.direccion);
+        Console.WriteLine("     Comodidades: " + (h.amenities ? "Sí" : "No"));
+        Console.WriteLine("══════════════════════════════════════════════════════");
     }
 
     private int ShowMenuHotel()
     {
+        Console.WriteLine("══════════════════════════════════════════════════════");
+        Console.WriteLine("                    Menú Hotel                   ");
+        Console.WriteLine("══════════════════════════════════════════════════════");
         Console.WriteLine("¿Qué datos le gustaría modificar?");
-        Console.WriteLine("1) Nombre");
-        Console.WriteLine("2) Estrellas");
-        Console.WriteLine("3) Dirección");
-        Console.WriteLine("4) Amenities");
-        Console.WriteLine("0) Salir");
+        Console.WriteLine("     1. Nombre");
+        Console.WriteLine("     2. Estrellas");
+        Console.WriteLine("     3. Dirección");
+        Console.WriteLine("     4. Amenities");
+        Console.WriteLine("     0. Salir");
+        Console.WriteLine("══════════════════════════════════════════════════════");
         return ValidateInput.ValidateInteger("Ingrese la opción deseada: ", -1, 5, true);
     }
 
