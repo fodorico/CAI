@@ -11,10 +11,10 @@ public class D_Cliente : A_JsonConvert<Cliente>, D_Factory<Cliente>
         var jsonClient = WebHelper.Get("cliente");
         return StringToJsonArray(jsonClient);
     }
-    
+
     public List<Cliente> Load(string id)
     {
-        var jsonClient = WebHelper.Get("cliente/"+ id);
+        var jsonClient = WebHelper.Get("cliente/" + id);
         return StringToJsonArray(jsonClient);
     }
 

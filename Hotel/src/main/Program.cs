@@ -60,7 +60,7 @@ public class Program
         switch (menu)
         {
             case 1:
-                new S_Cliente().ClienteMenu(_cliente);
+                new S_ClienteMenu().ClienteMenu(_cliente);
                 break;
             case 2:
             case 3:

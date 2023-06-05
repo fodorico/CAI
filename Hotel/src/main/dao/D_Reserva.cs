@@ -11,10 +11,10 @@ public class D_Reserva : A_JsonConvert<Reserva>, D_Factory<Reserva>
         var jsonClient = WebHelper.Get("Hotel/Reserva");
         return StringToJsonArray(jsonClient);
     }
-    
+
     public List<Reserva> Load(string id)
     {
-        var jsonClient = WebHelper.Get("Hotel/Reserva/"+ id);
+        var jsonClient = WebHelper.Get("Hotel/Reserva/" + id);
         return StringToJsonArray(jsonClient);
     }
 
